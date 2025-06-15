@@ -3,6 +3,7 @@ Kafka-Based Delivery Tracking System
 A real-time delivery tracking project implemented using Spring Boot, Apache Kafka, and microservices architecture. This system simulates a delivery scenario where the delivery boy sends live location updates to the Kafka environment, and the customer service fetches and displays the current location. Ideal for demonstrating Kafka’s real-time messaging capabilities in a real-world use case.
 
 Tech Stack
+
 Backend:-
 Spring Boot – For building RESTful microservices
 Apache Kafka – For real-time message streaming
